@@ -11,7 +11,7 @@ library(readxl)
 
 
 #Read in Data, create variable designating who was assigned treatment and control
-Synth.X <- read.xla("your_path_to/Synth_CaseStudy_X.xla")
+Synth.X <- read.xla("your_path_to/Synth_CaseStudy_X.xls")
 treatment <- c(rep(0, nrow(Synth.X)/2),rep(0, nrow(Synth.X)/2))
 X.Sim <- as.matrix(cbind(1,Synth.X))
 Nobs<-nrow(X.Sim)
