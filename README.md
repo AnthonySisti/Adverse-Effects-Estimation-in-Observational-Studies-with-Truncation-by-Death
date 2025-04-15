@@ -1,5 +1,6 @@
 # Adverse-Effects-Estimation-in-Observational-Studies-with-Truncation-by-Death
 Supplementary Materials for Manuscript "A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death"
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC11955163/)
 
 • R Code for Simulation Study: R program that conducts the simulated case studies in Section 4.1
 of the article on synthetic data. (Simulated Case Study.R)
